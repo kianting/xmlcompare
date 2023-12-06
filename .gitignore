@@ -1,0 +1,4 @@
+*.xml
+xmlfiles/
+temp/
+outfiles/
